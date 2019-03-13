@@ -1,0 +1,51 @@
+Javascript info
+
+Array iterators
+forEach-modifies the original error
+map-creates new array
+reduce-takes sngle element form arrray from left-right
+reduceRight-takes sngle element form arrray from right-left
+indexOf-finds the element in an error from left-right
+lastIndexOf-finds the element in an error from right-left
+
+Methods having same functionality
+filter-Fileters the new array with the condition to pass all the tests
+evry-method check if all array values pass a test.
+some-method check if some array values pass a test.
+find-Method returns the value of the first array element that passes a test function.
+findIndex-Method returns the index of the first array element that passes a test function.
+
+String Methods
+
+length
+indexOf
+lastIndexOf
+search
+slice
+substring
+substr
+replace
+toUpperCase
+toLowerCase
+concat
+trim
+charAt
+charCodeAt
+split
+
+Array Methods
+
+join
+toString
+pop-shift
+push-unshift
+length
+delete
+slice
+splice
+concat
+sort
+reverse
+min
+max
+compare fun
